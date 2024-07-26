@@ -1,0 +1,50 @@
+
+body{
+    background-color: black;
+}
+
+.login-Form{
+    background-color: rgb(218, 172, 172);
+    height: 250px;
+    width: 350px;
+    border-radius:15px;
+    margin-left: 450px;
+    margin-top: 100px;
+    box-shadow: 0 4px 8px 0 skyblue, 0 6px 20px 0 skyblue;
+}
+
+
+label{
+    margin-left: 10px;
+   
+}
+
+input{
+    padding: 10px 20px;
+    border-radius: 10px;
+    border: none;
+    margin-top: 20px;
+    margin-left: 10px;
+    outline: none;
+}
+
+#input-1{
+    margin-left: 35px;
+}
+
+
+
+
+
+button{
+    margin-left: 100px;
+    margin-top: 30px;
+   height: 40px;
+   width: 180px;
+   background-color: coral;
+   border-radius: 10px;
+   border: none;
+   color: aliceblue;
+ 
+}
+
