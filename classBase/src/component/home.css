@@ -1,0 +1,81 @@
+
+.navbar{
+    background-color: black;
+    color: antiquewhite;
+}
+
+ul li{
+    list-style-type: none;
+}
+
+a{
+    color: aqua;
+    text-decoration: none;
+    font-size: 30px;
+}
+
+/* login */
+.login-container{
+    height: 300px;
+    width: 400px;
+    background-color: blueviolet;
+    border-radius: 20px;
+    margin-top: 40px;
+    margin-left: 400px;
+    color: aqua;
+}
+
+ h1{
+    text-align: center;
+    padding-top: 20px;
+}
+
+ #user-inpt{
+    padding: 10px 20px ;
+    border-radius: 10px;
+    margin-left: 10px;
+    border: none;
+    outline: none;
+    
+    
+
+}
+
+ #pass-inpt{
+    margin-top: 30px;
+    padding: 10px 20px ;
+    border-radius: 10px;
+    margin-left: 10px;
+    border: none;
+    outline: none;
+  
+}
+
+
+ .user{
+   margin-left: 30px;
+}
+
+.login-btn{
+    width: 150px;
+    height: 40px;
+    border-radius: 7px;
+    background-color: chocolate;
+    margin-top: 30px;
+    margin-left: 90px;
+    color: aqua;
+}
+
+/* signup */
+
+.signup-container{
+    height: 300px;
+    width: 400px;
+    background-color: purple;
+    border-radius: 20px;
+    margin-top: 40px;
+    margin-left: 400px;
+    color: aqua;
+}
+
+
